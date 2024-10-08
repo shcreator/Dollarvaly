@@ -22,23 +22,23 @@ import {
 export default function LandingPage() {
   const features = [
     {
-      heading: `Seamless Crypto-Fiat Exchanges`,
-      description: `Effortlessly convert between cryptocurrencies and local currencies with our intuitive platform.`,
+      heading: `Welcome To DollarValy Exchanger`,
+      description: `You will be called on the Bkash Rocket Nagad personal number from which you send the money while buying dollars. So everyone is specially requested to make transactions using their personal number.`,
       icon: <SwapOutlined />,
     },
     {
       heading: `Real-Time Exchange Rates`,
-      description: `Stay informed with up-to-the-minute cryptocurrency pricing for smarter trading decisions.`,
+      description: `All buy orders will be completed by calling you. Do not send live chat or whatsapp messages within 10 minutes of ordering. After 10 minutes message us on livachat,whatsapp.`,
       icon: <DollarOutlined />,
     },
     {
-      heading: `Global Accessibility`,
-      description: `Access our platform from anywhere, anytime, and trade with users worldwide.`,
+      heading: `For Freelancers`,
+      description: `This site is made for the convenience of freelancers only you can make transactions subject to the following conditions.`,
       icon: <GlobalOutlined />,
     },
     {
-      heading: `Enhanced Security`,
-      description: `Rest easy with our state-of-the-art security measures protecting your digital assets.`,
+      heading: `100% Risk Free`,
+      description: `There is no chance of any individual or online hacker to steal cheat dollars as dollar buying selling is done manually. Moreover, our site has a record reserve of all your transactions, so there is no possibility of any kind of mistake and 100% guaranteed.`,
       icon: <SafetyOutlined />,
     },
     {
@@ -193,15 +193,15 @@ export default function LandingPage() {
 
   const painPoints = [
     {
-      emoji: `😓`,
+      emoji: `ðŸ˜“`,
       title: `Struggling with complex crypto platforms`,
     },
     {
-      emoji: `💸`,
+      emoji: `ðŸ’¸`,
       title: `Losing money on high fees and poor exchange rates`,
     },
     {
-      emoji: `🕒`,
+      emoji: `ðŸ•’`,
       title: `Wasting time on slow transactions and customer support`,
     },
   ]
